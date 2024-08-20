@@ -48,7 +48,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kpxduoVY6cWqKxpPgdwj-10" value="3.1 路由垫资渠道 + 请款" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1">
+        <mxCell id="kpxduoVY6cWqKxpPgdwj-10" value="3.1 路由垫资渠道" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1">
           <mxGeometry x="0.0018" relative="1" as="geometry">
             <mxPoint x="427.5" y="295" as="sourcePoint" />
             <mxPoint x="703" y="295" as="targetPoint" />
@@ -86,8 +86,8 @@
         </mxCell>
         <mxCell id="kpxduoVY6cWqKxpPgdwj-22" value="4.2返回请款结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
           <mxGeometry x="-0.0643" y="16" relative="1" as="geometry">
-            <mxPoint x="711" y="326" as="targetPoint" />
-            <mxPoint x="991" y="326" as="sourcePoint" />
+            <mxPoint x="715" y="326" as="targetPoint" />
+            <mxPoint x="995" y="326" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
