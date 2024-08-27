@@ -52,7 +52,7 @@
           <mxGeometry x="179" y="-651" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;个人 - 银行卡申购&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-480" width="1080" height="680" as="geometry">
+          <mxGeometry x="50" y="-501" width="1080" height="680" as="geometry">
             <mxRectangle x="70" y="40" width="60" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
