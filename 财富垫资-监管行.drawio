@@ -667,7 +667,7 @@
             <mxRectangle x="160" y="20" width="40" height="730" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-275" value="赎回到银行卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-274">
+        <mxCell id="iqYd82NWPD9aMixS2ALM-275" value="赎回到滚钱宝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-274">
           <mxGeometry x="55" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-283" value="财富归集户" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-270">
@@ -820,7 +820,7 @@
             <mxRectangle x="160" y="20" width="40" height="730" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-321" value="赎回到银行卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-320">
+        <mxCell id="iqYd82NWPD9aMixS2ALM-321" value="赎回到滚钱宝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-320">
           <mxGeometry x="55" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-322" value="财富归集户" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-317">
