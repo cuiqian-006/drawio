@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="qd19owQGamvkp8HrGmAx">
-    <mxGraphModel dx="2518" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3021" dy="2260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1090,12 +1090,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-530" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;机构 - 超级转换&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="4000" width="1330" height="940" as="geometry">
+          <mxGeometry x="1680" y="4000" width="1330" height="1610" as="geometry">
             <mxRectangle x="70" y="40" width="60" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-531" value="客户" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-530">
-          <mxGeometry y="20" width="160" height="920" as="geometry">
+          <mxGeometry y="20" width="160" height="1590" as="geometry">
             <mxRectangle y="20" width="40" height="730" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1105,8 +1105,11 @@
         <mxCell id="iqYd82NWPD9aMixS2ALM-574" value="差额退卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-531">
           <mxGeometry x="40" y="680" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-581" value="超级转换申购" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-531">
+          <mxGeometry x="40" y="900" width="80" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-534" value="支付渠道" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-530">
-          <mxGeometry x="160" y="20" width="190" height="920" as="geometry">
+          <mxGeometry x="160" y="20" width="190" height="1590" as="geometry">
             <mxRectangle x="160" y="20" width="40" height="730" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1114,7 +1117,7 @@
           <mxGeometry x="55" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-536" value="财富归集户" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-530">
-          <mxGeometry x="350" y="20" width="240" height="920" as="geometry">
+          <mxGeometry x="350" y="20" width="240" height="1590" as="geometry">
             <mxRectangle x="320" y="20" width="40" height="730" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1124,21 +1127,11 @@
         <mxCell id="iqYd82NWPD9aMixS2ALM-533" value="财富2552" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-536">
           <mxGeometry x="80" y="500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-576" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="iqYd82NWPD9aMixS2ALM-536" source="iqYd82NWPD9aMixS2ALM-564">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-577" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" connectable="0" parent="iqYd82NWPD9aMixS2ALM-576">
-          <mxGeometry x="-0.5502" y="4" relative="1" as="geometry">
-            <mxPoint x="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-564" value="是否差额部分" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-536">
           <mxGeometry x="70" y="590" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-537" value="垫资账户" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-530">
-          <mxGeometry x="590" y="20" width="260" height="920" as="geometry" />
+          <mxGeometry x="590" y="20" width="260" height="1590" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-538" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iqYd82NWPD9aMixS2ALM-537" source="iqYd82NWPD9aMixS2ALM-540" target="iqYd82NWPD9aMixS2ALM-542">
           <mxGeometry relative="1" as="geometry" />
@@ -1172,7 +1165,7 @@
           <mxGeometry x="145.5" y="385" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-547" value="浦发监管户" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-530">
-          <mxGeometry x="850" y="20" width="240" height="920" as="geometry" />
+          <mxGeometry x="850" y="20" width="240" height="1590" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-548" value="公募监管户&lt;br&gt;131" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-547">
           <mxGeometry x="89" y="500" width="80" height="40" as="geometry" />
@@ -1180,8 +1173,11 @@
         <mxCell id="iqYd82NWPD9aMixS2ALM-570" value="公募监管户&lt;br&gt;131" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-547">
           <mxGeometry x="90" y="600" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-580" value="公募监管户&lt;br&gt;131" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-547">
+          <mxGeometry x="90" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-549" value="TA" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-530">
-          <mxGeometry x="1090" y="20" width="240" height="920" as="geometry" />
+          <mxGeometry x="1090" y="20" width="240" height="1590" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-550" value="TA - 24" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-549">
           <mxGeometry x="94" y="60" width="80" height="40" as="geometry" />
@@ -1257,6 +1253,19 @@
             <Array as="points">
               <mxPoint x="980" y="720" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-576" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iqYd82NWPD9aMixS2ALM-530" source="iqYd82NWPD9aMixS2ALM-564" target="iqYd82NWPD9aMixS2ALM-580">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-577" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" connectable="0" parent="iqYd82NWPD9aMixS2ALM-576">
+          <mxGeometry x="-0.5502" y="4" relative="1" as="geometry">
+            <mxPoint x="-6" y="-101" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
