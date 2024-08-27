@@ -662,9 +662,6 @@
         <mxCell id="iqYd82NWPD9aMixS2ALM-272" value="赎回操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-271">
           <mxGeometry x="39" y="60" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-273" value="客户银行卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-271">
-          <mxGeometry x="40" y="740" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-274" value="支付渠道" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-270">
           <mxGeometry x="160" y="20" width="190" height="840" as="geometry">
             <mxRectangle x="160" y="20" width="40" height="730" as="alternateBounds" />
@@ -672,41 +669,6 @@
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-275" value="赎回到银行卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-274">
           <mxGeometry x="55" y="60" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-276" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="iqYd82NWPD9aMixS2ALM-274" source="iqYd82NWPD9aMixS2ALM-280" target="iqYd82NWPD9aMixS2ALM-281">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="95" y="580" />
-              <mxPoint x="50" y="580" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-277" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" connectable="0" parent="iqYd82NWPD9aMixS2ALM-276">
-          <mxGeometry x="-0.266" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-278" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="iqYd82NWPD9aMixS2ALM-274" source="iqYd82NWPD9aMixS2ALM-280" target="iqYd82NWPD9aMixS2ALM-282">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="95" y="580" />
-              <mxPoint x="140" y="580" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-279" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" connectable="0" parent="iqYd82NWPD9aMixS2ALM-278">
-          <mxGeometry x="-0.2898" y="-4" relative="1" as="geometry">
-            <mxPoint y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-280" value="是否民生卡" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-274">
-          <mxGeometry x="45" y="490" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-281" value="兴业慢赎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-274">
-          <mxGeometry x="10" y="640" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-282" value="民生6600" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-274">
-          <mxGeometry x="100" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-283" value="财富归集户" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-270">
           <mxGeometry x="350" y="20" width="240" height="840" as="geometry">
@@ -756,6 +718,9 @@
         <mxCell id="iqYd82NWPD9aMixS2ALM-296" value="公募监管户&lt;br&gt;131" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-295">
           <mxGeometry x="89" y="500" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-313" value="公募监管户&lt;br&gt;131" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-295">
+          <mxGeometry x="89" y="610" width="80" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-297" value="TA" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-270">
           <mxGeometry x="1090" y="20" width="240" height="840" as="geometry" />
         </mxCell>
@@ -767,6 +732,9 @@
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-300" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=8;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="iqYd82NWPD9aMixS2ALM-297" source="iqYd82NWPD9aMixS2ALM-298" target="iqYd82NWPD9aMixS2ALM-299">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-315" value="TA - 22" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-297">
+          <mxGeometry x="94" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-301" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=8;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="iqYd82NWPD9aMixS2ALM-270" source="iqYd82NWPD9aMixS2ALM-272" target="iqYd82NWPD9aMixS2ALM-275">
           <mxGeometry relative="1" as="geometry">
@@ -820,20 +788,17 @@
         <mxCell id="iqYd82NWPD9aMixS2ALM-309" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="iqYd82NWPD9aMixS2ALM-270" source="iqYd82NWPD9aMixS2ALM-296" target="iqYd82NWPD9aMixS2ALM-284">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-310" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="iqYd82NWPD9aMixS2ALM-270" source="iqYd82NWPD9aMixS2ALM-284" target="iqYd82NWPD9aMixS2ALM-280">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-311" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="iqYd82NWPD9aMixS2ALM-270" source="iqYd82NWPD9aMixS2ALM-281" target="iqYd82NWPD9aMixS2ALM-273">
+        <mxCell id="iqYd82NWPD9aMixS2ALM-314" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="iqYd82NWPD9aMixS2ALM-270" source="iqYd82NWPD9aMixS2ALM-284" target="iqYd82NWPD9aMixS2ALM-313">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="780" />
+              <mxPoint x="470" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-312" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="iqYd82NWPD9aMixS2ALM-270" source="iqYd82NWPD9aMixS2ALM-282" target="iqYd82NWPD9aMixS2ALM-273">
+        <mxCell id="iqYd82NWPD9aMixS2ALM-316" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="iqYd82NWPD9aMixS2ALM-270" source="iqYd82NWPD9aMixS2ALM-313" target="iqYd82NWPD9aMixS2ALM-315">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="780" />
+              <mxPoint x="979" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
