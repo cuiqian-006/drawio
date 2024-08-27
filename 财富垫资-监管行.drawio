@@ -1124,7 +1124,17 @@
         <mxCell id="iqYd82NWPD9aMixS2ALM-533" value="财富2552" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-536">
           <mxGeometry x="80" y="500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-564" value="是否存在差额" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-536">
+        <mxCell id="iqYd82NWPD9aMixS2ALM-576" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="iqYd82NWPD9aMixS2ALM-536" source="iqYd82NWPD9aMixS2ALM-564">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-577" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" connectable="0" parent="iqYd82NWPD9aMixS2ALM-576">
+          <mxGeometry x="-0.5502" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-564" value="是否差额部分" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-536">
           <mxGeometry x="70" y="590" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-537" value="垫资账户" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-530">
