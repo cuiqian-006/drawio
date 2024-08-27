@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="qd19owQGamvkp8HrGmAx">
-    <mxGraphModel dx="3021" dy="2260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2518" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1113,8 +1113,11 @@
             <mxRectangle x="160" y="20" width="40" height="730" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iqYd82NWPD9aMixS2ALM-535" value="超转虚拟支付渠道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-534">
+        <mxCell id="iqYd82NWPD9aMixS2ALM-535" value="赎回到卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-534">
           <mxGeometry x="55" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-583" value="超转虚拟支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-534">
+          <mxGeometry x="49" y="900" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-536" value="财富归集户" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-530">
           <mxGeometry x="350" y="20" width="240" height="1590" as="geometry">
@@ -1129,6 +1132,9 @@
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-564" value="是否差额部分" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-536">
           <mxGeometry x="70" y="590" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-585" value="虚拟资金流&lt;br&gt;2552" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-536">
+          <mxGeometry x="80" y="900" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-537" value="垫资账户" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-530">
           <mxGeometry x="590" y="20" width="260" height="1590" as="geometry" />
@@ -1173,8 +1179,14 @@
         <mxCell id="iqYd82NWPD9aMixS2ALM-570" value="公募监管户&lt;br&gt;131" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-547">
           <mxGeometry x="90" y="600" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-589" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="iqYd82NWPD9aMixS2ALM-547" source="iqYd82NWPD9aMixS2ALM-580" target="iqYd82NWPD9aMixS2ALM-587">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-580" value="公募监管户&lt;br&gt;131" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-547">
           <mxGeometry x="90" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-587" value="公募监管户&lt;br&gt;131" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-547">
+          <mxGeometry x="89" y="900" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqYd82NWPD9aMixS2ALM-549" value="TA" style="swimlane;html=1;startSize=20;" vertex="1" parent="iqYd82NWPD9aMixS2ALM-530">
           <mxGeometry x="1090" y="20" width="240" height="1590" as="geometry" />
@@ -1267,6 +1279,15 @@
           <mxGeometry x="-0.5502" y="4" relative="1" as="geometry">
             <mxPoint x="-6" y="-101" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-584" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="iqYd82NWPD9aMixS2ALM-530" source="iqYd82NWPD9aMixS2ALM-581" target="iqYd82NWPD9aMixS2ALM-583">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-586" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;dashed=1;dashPattern=8 8;" edge="1" parent="iqYd82NWPD9aMixS2ALM-530" source="iqYd82NWPD9aMixS2ALM-583" target="iqYd82NWPD9aMixS2ALM-585">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqYd82NWPD9aMixS2ALM-588" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;resizable=0;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;dashed=1;dashPattern=8 8;" edge="1" parent="iqYd82NWPD9aMixS2ALM-530" source="iqYd82NWPD9aMixS2ALM-585" target="iqYd82NWPD9aMixS2ALM-587">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
