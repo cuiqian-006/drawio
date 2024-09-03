@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1563" dy="-262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2266" dy="-8" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-42" value="财富" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="220" y="1120" width="140" height="300" as="geometry" />
+          <mxGeometry x="220" y="1180" width="140" height="300" as="geometry" />
         </mxCell>
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-88" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;申购成功&lt;br&gt;-申购1w&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-福利金0.2w&lt;br&gt;-货币0.8w&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="9iYOM7m7SdCIZt4Ot2Id-42" vertex="1">
           <mxGeometry x="32.5" y="40" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-51" value="监管户" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="360" y="1120" width="150" height="300" as="geometry" />
+          <mxGeometry x="360" y="1180" width="150" height="300" as="geometry" />
         </mxCell>
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9iYOM7m7SdCIZt4Ot2Id-51" source="9iYOM7m7SdCIZt4Ot2Id-91" target="9iYOM7m7SdCIZt4Ot2Id-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="43.75" y="170" width="62.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-70" value="TA" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="510" y="1120" width="150" height="300" as="geometry" />
+          <mxGeometry x="510" y="1180" width="150" height="300" as="geometry" />
         </mxCell>
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-90" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;RT - 24&lt;br&gt;0.8w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="9iYOM7m7SdCIZt4Ot2Id-70" vertex="1">
           <mxGeometry x="43.75" y="55" width="62.5" height="30" as="geometry" />
@@ -32,13 +32,13 @@
           <mxGeometry x="43.75" y="240" width="62.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-77" value="民生2552" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="660" y="1120" width="150" height="300" as="geometry" />
+          <mxGeometry x="660" y="1180" width="150" height="300" as="geometry" />
         </mxCell>
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-95" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;2552&lt;br&gt;0.2w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="9iYOM7m7SdCIZt4Ot2Id-77" vertex="1">
           <mxGeometry x="43.75" y="100" width="62.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-78" value="福利金平台账户" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="810" y="1120" width="150" height="300" as="geometry" />
+          <mxGeometry x="810" y="1180" width="150" height="300" as="geometry" />
         </mxCell>
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-94" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;平台账户&lt;br&gt;0.2w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="9iYOM7m7SdCIZt4Ot2Id-78" vertex="1">
           <mxGeometry x="44.5" y="55" width="62.5" height="30" as="geometry" />
@@ -49,21 +49,21 @@
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9iYOM7m7SdCIZt4Ot2Id-90" target="9iYOM7m7SdCIZt4Ot2Id-91" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="585" y="1235" />
+              <mxPoint x="585" y="1295" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9iYOM7m7SdCIZt4Ot2Id-94" target="9iYOM7m7SdCIZt4Ot2Id-95" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="886" y="1235" />
+              <mxPoint x="886" y="1295" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9iYOM7m7SdCIZt4Ot2Id-95" target="9iYOM7m7SdCIZt4Ot2Id-97" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="735" y="1305" />
+              <mxPoint x="735" y="1365" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -75,7 +75,7 @@
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9iYOM7m7SdCIZt4Ot2Id-97" target="9iYOM7m7SdCIZt4Ot2Id-100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="435" y="1375" />
+              <mxPoint x="435" y="1435" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -193,13 +193,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-56" value="财富" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="220" y="2180" width="140" height="690" as="geometry" />
+          <mxGeometry x="220" y="2150" width="140" height="690" as="geometry" />
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-57" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;福利金部分成功&lt;br&gt;—申购 1w&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1.福利金 0.2w&lt;br&gt;2.货币 0.8w&lt;br&gt;&lt;br&gt;—成功 0.1w&lt;br&gt;1.福利金 0.1w&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PYVgvKilxDEBUlpUZclP-56">
           <mxGeometry x="25" y="30" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-58" value="监管户" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="360" y="2180" width="150" height="690" as="geometry" />
+          <mxGeometry x="360" y="2150" width="150" height="690" as="geometry" />
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PYVgvKilxDEBUlpUZclP-58" source="PYVgvKilxDEBUlpUZclP-60" target="PYVgvKilxDEBUlpUZclP-61">
           <mxGeometry relative="1" as="geometry" />
@@ -211,7 +211,7 @@
           <mxGeometry x="43.75" y="190" width="62.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-65" value="TA" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="510" y="2180" width="150" height="690" as="geometry" />
+          <mxGeometry x="510" y="2150" width="150" height="690" as="geometry" />
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-66" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;RT - 24&lt;br&gt;0.8w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PYVgvKilxDEBUlpUZclP-65">
           <mxGeometry x="43.75" y="75" width="62.5" height="30" as="geometry" />
@@ -223,13 +223,13 @@
           <mxGeometry x="23.44" y="340" width="106.56" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-70" value="民生2552" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="660" y="2180" width="150" height="690" as="geometry" />
+          <mxGeometry x="660" y="2150" width="150" height="690" as="geometry" />
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-71" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;2552&lt;br&gt;0.2w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PYVgvKilxDEBUlpUZclP-70">
           <mxGeometry x="43.75" y="130" width="62.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-73" value="福利金平台账户" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="810" y="2180" width="150" height="690" as="geometry" />
+          <mxGeometry x="810" y="2150" width="150" height="690" as="geometry" />
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-74" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;平台账户&lt;br&gt;0.2w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PYVgvKilxDEBUlpUZclP-73">
           <mxGeometry x="44.5" y="55" width="62.5" height="30" as="geometry" />
@@ -265,36 +265,46 @@
         <mxCell id="PYVgvKilxDEBUlpUZclP-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="PYVgvKilxDEBUlpUZclP-61" target="PYVgvKilxDEBUlpUZclP-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="435" y="2445" />
+              <mxPoint x="435" y="2415" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PYVgvKilxDEBUlpUZclP-74" target="PYVgvKilxDEBUlpUZclP-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="886" y="2325" />
+              <mxPoint x="886" y="2295" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PYVgvKilxDEBUlpUZclP-66" target="PYVgvKilxDEBUlpUZclP-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="585" y="2325" />
+              <mxPoint x="585" y="2295" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PYVgvKilxDEBUlpUZclP-71" target="PYVgvKilxDEBUlpUZclP-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="735" y="2385" />
+              <mxPoint x="735" y="2355" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="PYVgvKilxDEBUlpUZclP-68" target="PYVgvKilxDEBUlpUZclP-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PYVgvKilxDEBUlpUZclP-101" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;HSMX 新增 - 1&lt;br&gt;SPV 新增 - 1&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1440" width="110" height="40" as="geometry" />
+        <mxCell id="PYVgvKilxDEBUlpUZclP-101" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;HSMX 改动 - 1 ： 识别专户 hsmx 调拨至4695&lt;br&gt;&lt;br&gt;SPV 改动 - 1 ：识别专户申购交易，拆分 Z02为两笔； &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1、0.8w来账账户是4695；&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2、0.2w来账账户是2552&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1380" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PYVgvKilxDEBUlpUZclP-104" value="HSMX 改动 - 1&lt;br&gt;SPV 改动 - 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#ec7474;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="608.9966666666669" y="1304" as="geometry">
+            <mxPoint x="-21" y="411" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PYVgvKilxDEBUlpUZclP-106" value="HSMX 改动 - 1&lt;br&gt;SPV 改动 - 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#ec7474;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="608.9966666666669" y="1943" as="geometry">
+            <mxPoint x="-21" y="411" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
