@@ -121,6 +121,9 @@
         <mxCell id="PYVgvKilxDEBUlpUZclP-54" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;RT - 22&lt;br&gt;0.8w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9iYOM7m7SdCIZt4Ot2Id-110">
           <mxGeometry x="43.75" y="480" width="62.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PYVgvKilxDEBUlpUZclP-109" value="HSMX 改动 - 1&lt;br&gt;SPV 改动 - 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#ec7474;" vertex="1" connectable="0" parent="9iYOM7m7SdCIZt4Ot2Id-110">
+          <mxGeometry x="75" y="185" as="geometry" />
+        </mxCell>
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-113" value="民生2552" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="660" y="1530" width="150" height="570" as="geometry" />
         </mxCell>
@@ -138,6 +141,9 @@
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-52" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;平台账户&lt;br&gt;0.2w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9iYOM7m7SdCIZt4Ot2Id-115">
           <mxGeometry x="43.75" y="360" width="62.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYVgvKilxDEBUlpUZclP-110" value="HSMX 改动 - 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#ec7474;" vertex="1" connectable="0" parent="9iYOM7m7SdCIZt4Ot2Id-115">
+          <mxGeometry y="365" as="geometry" />
         </mxCell>
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9iYOM7m7SdCIZt4Ot2Id-105" target="9iYOM7m7SdCIZt4Ot2Id-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -209,6 +215,11 @@
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-61" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;4695账户&lt;br&gt;1w&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PYVgvKilxDEBUlpUZclP-58">
           <mxGeometry x="43.75" y="190" width="62.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYVgvKilxDEBUlpUZclP-112" value="SPV 改动 - 3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#ec7474;" vertex="1" connectable="0" parent="PYVgvKilxDEBUlpUZclP-58">
+          <mxGeometry x="120" y="610" as="geometry">
+            <mxPoint x="-3" y="-5" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PYVgvKilxDEBUlpUZclP-65" value="TA" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="510" y="2150" width="150" height="690" as="geometry" />
@@ -296,15 +307,11 @@
         <mxCell id="PYVgvKilxDEBUlpUZclP-101" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;HSMX 改动 - 1 ： 识别专户 hsmx 调拨至4695&lt;br&gt;&lt;br&gt;SPV 改动 - 1 ：识别专户申购交易，拆分 Z02为两笔； &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1、0.8w来账账户是4695；&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2、0.2w来账账户是2552&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1380" width="350" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="PYVgvKilxDEBUlpUZclP-104" value="HSMX 改动 - 1&lt;br&gt;SPV 改动 - 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#ec7474;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="608.9966666666669" y="1304" as="geometry">
-            <mxPoint x="-21" y="411" as="offset" />
-          </mxGeometry>
+        <mxCell id="PYVgvKilxDEBUlpUZclP-111" value="HSMX 改动 - 1&lt;br&gt;SPV 改动 - 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#ec7474;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1090" y="1850" as="geometry" />
         </mxCell>
-        <mxCell id="PYVgvKilxDEBUlpUZclP-106" value="HSMX 改动 - 1&lt;br&gt;SPV 改动 - 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#ec7474;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="608.9966666666669" y="1943" as="geometry">
-            <mxPoint x="-21" y="411" as="offset" />
-          </mxGeometry>
+        <mxCell id="PYVgvKilxDEBUlpUZclP-113" value="HSMX 改动 - 1&lt;br&gt;SPV 改动 - 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#ec7474;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="585" y="2356" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
