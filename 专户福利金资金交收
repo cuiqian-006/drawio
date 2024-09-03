@@ -149,6 +149,9 @@
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-42" value="财富" style="swimlane;whiteSpace=wrap" vertex="1" parent="9iYOM7m7SdCIZt4Ot2Id-79">
           <mxGeometry width="140" height="320" as="geometry" />
         </mxCell>
+        <mxCell id="9iYOM7m7SdCIZt4Ot2Id-88" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;申购成功&lt;br&gt;-申购1W&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-福利金0.2W&lt;br&gt;-货币0.8W&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9iYOM7m7SdCIZt4Ot2Id-42">
+          <mxGeometry x="32.5" y="40" width="75" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="9iYOM7m7SdCIZt4Ot2Id-51" value="监管户" style="swimlane;whiteSpace=wrap" vertex="1" parent="9iYOM7m7SdCIZt4Ot2Id-79">
           <mxGeometry x="140" width="150" height="320" as="geometry" />
         </mxCell>
