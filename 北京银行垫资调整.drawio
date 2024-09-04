@@ -123,25 +123,25 @@
         </mxCell>
         <mxCell id="kpxduoVY6cWqKxpPgdwj-51" value="2. 根据路由结果，落地SPV信息；&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1）如果是浦发日间垫资落地 2144&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2）如果是北京日间垫资&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 落地交行/北京单位结算卡" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="0.4118" y="-10" relative="1" as="geometry">
-            <mxPoint x="155" y="1020" as="sourcePoint" />
+            <mxPoint x="155" y="978" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="185" y="1050" />
+              <mxPoint x="185" y="1008" />
             </Array>
             <mxPoint x="10" y="10" as="offset" />
-            <mxPoint x="160" y="1050" as="targetPoint" />
+            <mxPoint x="160" y="1008" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kpxduoVY6cWqKxpPgdwj-66" value="&lt;b&gt;2.1 请款申请&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" edge="1">
+        <mxCell id="kpxduoVY6cWqKxpPgdwj-66" value="2.1 请款申请" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" edge="1">
           <mxGeometry x="0.0013" relative="1" as="geometry">
             <mxPoint x="155" y="811.0000000000002" as="sourcePoint" />
             <mxPoint x="408" y="811.0000000000002" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kpxduoVY6cWqKxpPgdwj-67" value="2.6 返回请款结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" edge="1">
+        <mxCell id="kpxduoVY6cWqKxpPgdwj-67" value="2.6 返回请款结果 + 垫资渠道信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" edge="1">
           <mxGeometry x="0.0013" relative="1" as="geometry">
-            <mxPoint x="155" y="952.9999999999993" as="targetPoint" />
-            <mxPoint x="408" y="953" as="sourcePoint" />
+            <mxPoint x="155" y="931.9999999999993" as="targetPoint" />
+            <mxPoint x="408" y="932" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -150,34 +150,34 @@
         </mxCell>
         <mxCell id="kpxduoVY6cWqKxpPgdwj-70" value="2.2 路由请款渠道" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" edge="1">
           <mxGeometry x="0.0046" relative="1" as="geometry">
-            <mxPoint x="418" y="830.0000000000002" as="sourcePoint" />
+            <mxPoint x="418" y="826.0000000000002" as="sourcePoint" />
             <mxPoint as="offset" />
-            <mxPoint x="705" y="830.0000000000002" as="targetPoint" />
+            <mxPoint x="705" y="826.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kpxduoVY6cWqKxpPgdwj-71" value="2.5 指定路由渠道请款成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="418" y="930" as="targetPoint" />
-            <mxPoint x="705" y="930" as="sourcePoint" />
+            <mxPoint x="418" y="913" as="targetPoint" />
+            <mxPoint x="705" y="913" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kpxduoVY6cWqKxpPgdwj-72" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="995" y="832" width="10" height="80" as="geometry" />
+          <mxGeometry x="995" y="825" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kpxduoVY6cWqKxpPgdwj-73" value="2.3调用三方银行请款" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="715" y="851.58" as="sourcePoint" />
+            <mxPoint x="715" y="844.58" as="sourcePoint" />
             <mxPoint as="offset" />
-            <mxPoint x="995" y="851.58" as="targetPoint" />
+            <mxPoint x="995" y="844.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kpxduoVY6cWqKxpPgdwj-74" value="2.4返回请款结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="0.0357" relative="1" as="geometry">
-            <mxPoint x="715" y="902" as="targetPoint" />
+            <mxPoint x="715" y="895" as="targetPoint" />
             <mxPoint as="offset" />
-            <mxPoint x="995" y="902" as="sourcePoint" />
+            <mxPoint x="995" y="895" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="770" y="902" />
+              <mxPoint x="770" y="895" />
             </Array>
           </mxGeometry>
         </mxCell>
