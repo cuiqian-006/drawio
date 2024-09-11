@@ -260,7 +260,7 @@
         <mxCell id="0XcmcjFNegIatuKm_EpQ-25" value="浦发垫资账户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1162.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0XcmcjFNegIatuKm_EpQ-26" value="浦发日间垫资" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=100;height=30;" vertex="1" parent="1">
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-26" value="监管行浦发日间垫资" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=140;height=30;" vertex="1" parent="1">
           <mxGeometry x="70" y="960" width="1020" height="530" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0XcmcjFNegIatuKm_EpQ-28" target="0XcmcjFNegIatuKm_EpQ-30">
@@ -350,28 +350,28 @@
         <mxCell id="0XcmcjFNegIatuKm_EpQ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0XcmcjFNegIatuKm_EpQ-64" target="0XcmcjFNegIatuKm_EpQ-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0XcmcjFNegIatuKm_EpQ-64" value="浦发日间请款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-64" value="北京日间请款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1762.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0XcmcjFNegIatuKm_EpQ-66" target="0XcmcjFNegIatuKm_EpQ-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0XcmcjFNegIatuKm_EpQ-66" value="浦发垫资账户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-66" value="北京垫资账户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1762.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0XcmcjFNegIatuKm_EpQ-67" value="北京日间垫资" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=100;height=30;" vertex="1" parent="1">
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-67" value="监管行北京日间垫资" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=140;height=30;" vertex="1" parent="1">
           <mxGeometry x="70" y="1560" width="1020" height="530" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0XcmcjFNegIatuKm_EpQ-69" target="0XcmcjFNegIatuKm_EpQ-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-69" value="北京单位结算卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="473" y="1762.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="472.5" y="1762.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0XcmcjFNegIatuKm_EpQ-71" target="0XcmcjFNegIatuKm_EpQ-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0XcmcjFNegIatuKm_EpQ-71" value="浦发杨浦2144" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-71" value="北京对公户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1762.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-72" value="监管账户131" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -380,7 +380,7 @@
         <mxCell id="0XcmcjFNegIatuKm_EpQ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0XcmcjFNegIatuKm_EpQ-74" target="0XcmcjFNegIatuKm_EpQ-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0XcmcjFNegIatuKm_EpQ-74" value="浦发日间还款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-74" value="北京日间还款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1940" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0XcmcjFNegIatuKm_EpQ-76" target="0XcmcjFNegIatuKm_EpQ-77">
@@ -399,21 +399,21 @@
           <mxGeometry x="361.5" y="2020" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-80" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;fillColor=#FF9933;strokeColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="1550" width="20" height="565" as="geometry" />
+          <mxGeometry x="414" y="1762.5" width="20" height="145" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-81" value="payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="582.5" y="1842.5" width="70" height="30" as="geometry" />
+          <mxGeometry x="388.5" y="1842.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0XcmcjFNegIatuKm_EpQ-83" target="0XcmcjFNegIatuKm_EpQ-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0XcmcjFNegIatuKm_EpQ-83" value="浦发单位结算卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-83" value="交行单位结算卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="1670" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0XcmcjFNegIatuKm_EpQ-85" target="0XcmcjFNegIatuKm_EpQ-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0XcmcjFNegIatuKm_EpQ-85" value="浦发杨浦2144" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-85" value="交行对公户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1670" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-86" value="监管账户131" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -445,6 +445,18 @@
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-93" value="payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="1600" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-94" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;fillColor=#FF9933;strokeColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="1762.5" width="20" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-95" value="北京银行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="582.5" y="1842.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-96" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;fillColor=#FF9933;strokeColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="805" y="1762.5" width="20" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-97" value="payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1842.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
