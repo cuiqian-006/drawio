@@ -197,8 +197,11 @@
         <mxCell id="ALbWEhQMEWcFjF1U4QvQ-22" value="浦发日间请款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="620" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ALbWEhQMEWcFjF1U4QvQ-25" value="浦发子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ALbWEhQMEWcFjF1U4QvQ-25" value="浦发日间垫资" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="620" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ALbWEhQMEWcFjF1U4QvQ-27" value="新请款流程" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=100;height=30;" vertex="1" parent="1">
+          <mxGeometry x="70" y="550" width="1030" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
