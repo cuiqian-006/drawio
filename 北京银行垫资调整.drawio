@@ -251,6 +251,9 @@
         <mxCell id="0XcmcjFNegIatuKm_EpQ-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="792.5" y="602.5" width="20" height="175" as="geometry" />
         </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-21" value="浦发银行自主调拨" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="742.5" y="700" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
