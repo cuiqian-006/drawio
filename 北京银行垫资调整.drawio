@@ -389,6 +389,9 @@
         <mxCell id="0XcmcjFNegIatuKm_EpQ-76" value="浦发131" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1940" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0XcmcjFNegIatuKm_EpQ-77" target="0XcmcjFNegIatuKm_EpQ-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-77" value="北京对公户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="473" y="1940" width="100" height="40" as="geometry" />
         </mxCell>
@@ -457,6 +460,15 @@
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-97" value="payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="1842.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-99" value="北京还款户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1940" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-101" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;fillColor=#FF9933;strokeColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="615.5" y="1937.5" width="20" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-102" value="银联T+1日 payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2017.5" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
