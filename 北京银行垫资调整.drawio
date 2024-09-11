@@ -197,11 +197,23 @@
         <mxCell id="ALbWEhQMEWcFjF1U4QvQ-22" value="浦发日间请款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="620" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ALbWEhQMEWcFjF1U4QvQ-25" value="浦发日间垫资" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="620" width="100" height="40" as="geometry" />
+        <mxCell id="ALbWEhQMEWcFjF1U4QvQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ALbWEhQMEWcFjF1U4QvQ-25" target="ALbWEhQMEWcFjF1U4QvQ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ALbWEhQMEWcFjF1U4QvQ-25" value="浦发垫资账户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="620" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ALbWEhQMEWcFjF1U4QvQ-27" value="新请款流程" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=100;height=30;" vertex="1" parent="1">
           <mxGeometry x="70" y="550" width="1030" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ALbWEhQMEWcFjF1U4QvQ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ALbWEhQMEWcFjF1U4QvQ-28" target="ALbWEhQMEWcFjF1U4QvQ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ALbWEhQMEWcFjF1U4QvQ-28" value="北京单位结算卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="620" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ALbWEhQMEWcFjF1U4QvQ-31" value="杨浦2144" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="620" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
