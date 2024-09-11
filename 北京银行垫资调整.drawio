@@ -386,6 +386,13 @@
         <mxCell id="0XcmcjFNegIatuKm_EpQ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0XcmcjFNegIatuKm_EpQ-76" target="0XcmcjFNegIatuKm_EpQ-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0XcmcjFNegIatuKm_EpQ-76" target="0XcmcjFNegIatuKm_EpQ-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="2090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-76" value="浦发131" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1940" width="100" height="40" as="geometry" />
         </mxCell>
@@ -396,7 +403,7 @@
           <mxGeometry x="473" y="1940" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-78" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;strokeColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="426.5" y="1920" width="20" height="180" as="geometry" />
+          <mxGeometry x="416.5" y="1930" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-79" value="merchant 浦发监管文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="361.5" y="2020" width="150" height="30" as="geometry" />
@@ -465,10 +472,43 @@
           <mxGeometry x="660" y="1940" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-101" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;fillColor=#FF9933;strokeColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="615.5" y="1937.5" width="20" height="145" as="geometry" />
+          <mxGeometry x="607.5" y="1937.5" width="20" height="145" as="geometry" />
         </mxCell>
         <mxCell id="0XcmcjFNegIatuKm_EpQ-102" value="银联T+1日 payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2017.5" width="130" height="30" as="geometry" />
+          <mxGeometry x="552.5" y="2020" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0XcmcjFNegIatuKm_EpQ-103" target="0XcmcjFNegIatuKm_EpQ-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-103" value="交行对公户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="473" y="2070" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0XcmcjFNegIatuKm_EpQ-105" target="0XcmcjFNegIatuKm_EpQ-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-105" value="北京对公户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2070" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-107" value="北京还款户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2070" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-109" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;strokeColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="418" y="2070" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-110" value="merchant 浦发监管文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="363" y="2160" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-111" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;strokeColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="2075" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-112" value="T日 payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="2160" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-113" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;strokeColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2060" width="20" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0XcmcjFNegIatuKm_EpQ-114" value="银联T+1日 payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="785" y="2160" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
